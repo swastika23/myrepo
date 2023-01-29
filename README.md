@@ -1,2 +1,2 @@
 # myrepo
-new repository
+new repository of git
